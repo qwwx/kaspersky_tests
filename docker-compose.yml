@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  test_runner:
+    build: .
+    image: koniushenko_pytest_runner
+    container_name: pytest_runner
+    volumes:
+      - .:/src/
