@@ -1,1 +1,1 @@
-# kaspersky_tests
+Тестирование страниц на сайте kaspersky с использованием паттерна PageObject
